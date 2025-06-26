@@ -20,6 +20,8 @@ Transform any book or long-form content in **PDF format** into an engaging, huma
 ### 🚀 Demo
 
 > Upload a book PDF and click "Generate" to get your personalized podcast!
+![image](https://github.com/user-attachments/assets/9e3703c8-9a08-4e3e-a685-9ec576267714)
+![image](https://github.com/user-attachments/assets/b978a522-cb54-4038-b6a1-b42a05195280)
 
 ---
 
