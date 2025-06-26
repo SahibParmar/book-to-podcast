@@ -90,7 +90,7 @@ python App.py
 | UI             | [Gradio](https://gradio.app)                           |
 | AI Model       | Google Gemini 2.0 Flash (via `langchain-google-genai`) |
 | Embedding      | `all-MiniLM-L6-v2` via HuggingFace                     |
-| Text-to-Speech | `edge-tts` (Microsoft's Neural Voices)                 |
+| Text-to-Speech | `edge-tts`                                             |
 | Parsing PDFs   | `pypdf`                                                |
 | Vector DB      | `Chroma`                                               |
 
