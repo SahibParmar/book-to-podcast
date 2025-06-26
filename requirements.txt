@@ -1,0 +1,25 @@
+# Core dependencies
+gradio==4.20.1
+pypdf==3.17.4
+python-dotenv==1.0.1
+
+# LangChain and vector DB
+langchain==0.2.1
+langchain-community==0.2.1
+langchain-core==0.2.1
+langchain-google-genai==1.0.2
+chromadb==0.4.24
+
+# Embeddings
+sentence-transformers==2.6.1
+transformers==4.41.1
+torch==2.3.0
+
+# Audio
+edge-tts==6.1.10
+pydub==0.25.1
+
+# Async handling
+aiohttp==3.9.5
+
+# NOTE: Make sure ffmpeg is installed separately and added to PATH.
